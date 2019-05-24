@@ -1,0 +1,20 @@
+.display-4 {
+  font-size: calc(2.5em);
+}
+.nav-item {
+  font-size: calc(1.3em);
+}
+.habit .display-4 {
+  padding:2% 3%
+}
+.content .habit .display-4 {
+  text-align: center;
+}
+
+.content .habit .lead {
+  padding: 3% 2%;
+}
+.btn{
+  width: 50%;
+  height: 10%
+}
